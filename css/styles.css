@@ -653,7 +653,7 @@ fieldset{
 }
 
 .btn_close_modal:hover .btn_close_img,
-.btn_close_img:focus .btn_close_img{
+.btn_close_modal:focus .btn_close_img {
    fill: #ffffff;
 }
 
