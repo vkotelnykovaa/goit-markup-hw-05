@@ -457,13 +457,12 @@ li {
 
 .footer_icons {
    flex-direction: column;
-   gap: 16px;
+   margin-right: 80px;
 }
 
 .flexd_row {
    display: flex;
    flex-direction: row;
-   gap: 24px;
    align-items: baseline
 }
 
@@ -542,7 +541,6 @@ li {
 }
 
 .form_modal{
-   display: flex;
    flex-direction: column;
 }
 
@@ -622,6 +620,7 @@ fieldset{
    background-color: #4D5AE5;
    border: none; 
    border-radius: 4px;
+   margin: 0 auto;
 
 }
 
